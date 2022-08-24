@@ -1,2 +1,2 @@
-# dEVoPStRAINING
-tHIS IS FOR dEVoPS TRAINING
+# DevOpsTraining
+This is for devops training
